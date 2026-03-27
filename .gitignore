@@ -1,0 +1,10 @@
+out/
+
+.idea/
+
+*.iml
+
+frames/
+
+saida_fila.png
+saida_pilha.png
